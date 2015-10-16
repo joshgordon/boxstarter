@@ -1,0 +1,45 @@
+cinst flashplayerplugin
+cinst google-chrome-x64
+cinst flashplayeractivex
+cinst notepadplusplus.install
+cinst firefox
+cinst git.install
+cinst 7zip.install
+cinst adobereader
+cinst jre8
+cinst vlc
+cinst nodejs.install
+cinst atom
+cinst sysinternals
+cinst ruby
+cinst vim
+cinst putty
+cinst libreoffice
+cinst python
+cinst virtualbox
+cinst hg
+cinst svn
+cinst paint.net
+cinst gimp
+cinst malwarebytes
+cinst wireshark
+cinst python2
+cinst googledrive
+cinst audacity
+cinst pip
+cinst maven
+cinst emacs
+cinst vim
+cinst sourcecodepro
+cinst virtualbox.extensionpack
+cinst eclipse
+cinst avgantivirusfree
+
+
+cinst fiddler4
+cinst git-credential-winstore
+cinst console-devel
+cinst sublimetext2
+cinst poshgit
+cinst dotpeek
+
