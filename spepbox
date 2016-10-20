@@ -1,0 +1,12 @@
+Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
+
+cinst google-chrome-x64
+cinst 7zip.install
+cinst adobereader
+cinst jre8
+cinst vlc
+cinst libreoffice
+cinst paint.net
+cinst malwarebytes
+cinst googledrive
+cinst dropbox
