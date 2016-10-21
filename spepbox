@@ -1,8 +1,5 @@
 Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
 Disable-BingSearch
-Enable-MicrosoftUpdate
-Install-WindowsUpdate
-
 
 cinst google-chrome-x64
 cinst 7zip.install
@@ -14,3 +11,4 @@ cinst paint.net
 cinst malwarebytes
 cinst googledrive
 cinst dropbox
+
